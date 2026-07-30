@@ -52,6 +52,5 @@ for (int i =0; i< 10; i++) {
 }
 cout<< "\n";
 cout << "the class average is: "<< total_average / 10 << endl;
-cout << "Done";
 
 }
